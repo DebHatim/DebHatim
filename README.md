@@ -1,11 +1,4 @@
 # Hatim Debboun — Backend Java Developer
-
-Desarrollador Backend especializado en **Java 21 / Spring Boot** y arquitecturas de microservicios.  
-Actualmente finalizando el Curso de Especialización JAVA/JEE en Ipartek (marzo 2026).  
-Disponibilidad inmediata · Remoto · España
-
----
-
 ## Stack principal
 
 **Backend**
@@ -40,14 +33,6 @@ Aplicación web full stack para compra de tickets y reserva de vuelos en aeropue
 - Backend con Symfony y endpoints REST
 - Frontend reactivo con React
 - Base de datos relacional con diseño de esquema para vuelos, aeropuertos y pasajeros
-
----
-
-## Formación
-
-- 🎓 **Especialización JAVA/JEE** — Ipartek Servicios Informáticos *(2025 – marzo 2026)*
-- 🎓 **CFGS Desarrollo de Aplicaciones Web** — IES Thos i Codina *(2023 – 2025)*
-- 🎓 **CFGM Sistemas Microinformáticos y Redes** — IES Thos i Codina *(2021 – 2023)*
 
 ---
 
