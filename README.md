@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hatim Debboun — Backend Java Developer
 
-<!--
-**DebHatim/DebHatim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Backend especializado en **Java 21 / Spring Boot** y arquitecturas de microservicios.  
+Actualmente finalizando el Curso de Especialización JAVA/JEE en Ipartek (marzo 2026).  
+Disponibilidad inmediata · Remoto · España
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack principal
+
+**Backend**
+`Java 21` `Spring Boot 4` `Spring Security` `JPA/Hibernate` `APIs REST` `Microservicios` `PHP` `Symfony`
+
+**Frontend**
+`React` `Vue.js` `JavaScript ES6+` `Thymeleaf` `HTML5/CSS3`
+
+**Persistencia**
+`MySQL` `PostgreSQL` `Doctrine ORM`
+
+**Calidad y herramientas**
+`JUnit 5` `Clean Code` `SOLID` `Docker` `Maven` `Git`
+
+---
+
+## Proyectos destacados
+
+### 🏨 [Sistema de Gestión de Reservas Hoteleras](https://github.com/DebHatim/reservasSpringBoot)
+API REST y aplicación web para gestión integral de hoteles y reservas.  
+`Java 21` `Spring Boot 4` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf` `JUnit`
+
+- Arquitectura MVC en capas con DTOs y Bean Validation
+- Autenticación y autorización por roles (ROLE_USER / ROLE_ADMIN) con BCrypt
+- Algoritmo de prevención de double-booking en capa de servicio
+- Panel de administración con CRUD completo · Calificación 10/10
+
+### ✈️ Plataforma de Reserva de Vuelos *(en desarrollo)*
+Aplicación web full stack para compra de tickets y reserva de vuelos en aeropuertos.  
+`PHP` `Symfony` `React` `MySQL` `APIs REST`
+
+- Backend con Symfony y endpoints REST
+- Frontend reactivo con React
+- Base de datos relacional con diseño de esquema para vuelos, aeropuertos y pasajeros
+
+---
+
+## Formación
+
+- 🎓 **Especialización JAVA/JEE** — Ipartek Servicios Informáticos *(2025 – marzo 2026)*
+- 🎓 **CFGS Desarrollo de Aplicaciones Web** — IES Thos i Codina *(2023 – 2025)*
+- 🎓 **CFGM Sistemas Microinformáticos y Redes** — IES Thos i Codina *(2021 – 2023)*
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hatimdebboun-blue?logo=linkedin)](https://linkedin.com/in/hatimdebboun)
+[![Email](https://img.shields.io/badge/Email-thos.debboun.hatim@gmail.com-red?logo=gmail)](mailto:thos.debboun.hatim@gmail.com)
