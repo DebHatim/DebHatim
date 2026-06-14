@@ -36,7 +36,6 @@ API REST y aplicación web backend para gestión integral de hoteles y reservas.
 - Algoritmo de prevención de double-booking en capa de servicio con validación JPQL
 - Panel de administración con CRUD completo de hoteles y usuarios
 - Vistas dinámicas con Thymeleaf y API REST con Spring Data REST
-- Suite de pruebas con JUnit 5 y arquitectura MVC en capas con DTOs
 
 ### 🔔 Sistema de Alertas en Tiempo Real *(en desarrollo activo)*
 `Java 21` `Spring Boot` `Apache Kafka` `React` `WebSocket` `MySQL` `Docker`
