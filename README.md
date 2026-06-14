@@ -37,7 +37,7 @@ API REST y aplicación web backend para gestión integral de hoteles y reservas.
 - Panel de administración con CRUD completo de hoteles y usuarios
 - Vistas dinámicas con Thymeleaf y API REST con Spring Data REST
 
-### 🔔 Sistema de Alertas en Tiempo Real *(en desarrollo activo)*
+### 🔔 [Sistema de Alertas en Tiempo Real *(en desarrollo activo)*](https://github.com/DebHatim/alertas-tiempo-real)
 `Java 21` `Spring Boot` `Apache Kafka` `React` `WebSocket` `MySQL` `Docker`
 
 Plataforma donde los usuarios configuran alertas personalizadas y reciben notificaciones en tiempo real cuando se disparan. Arquitectura orientada a eventos con Kafka como núcleo del sistema.
