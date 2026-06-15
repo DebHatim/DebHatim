@@ -30,7 +30,7 @@ Actualmente buscando mi primer empleo estable como desarrollador Java mientras c
 ### 🏨 [Sistema de Gestión de Reservas Hoteleras](https://github.com/DebHatim/reservasSpringBoot)
 `Java 21` `Spring Boot 4` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
 
-API REST y aplicación web backend para gestión integral de hoteles y reservas. Lo desarrollé de forma independiente después de completar el Curso de Especialización Java/JEE en Ipartek — lo diseñé, lo arquitecté y lo llevé hasta el final yo solo.
+API REST y aplicación web backend para gestión integral de hoteles y reservas. Lo desarrollé de forma independiente después de completar el Curso de Especialización Java/JEE en Ipartek. Lo diseñé, lo arquitecté y lo llevé hasta el final yo solo.
 
 - Autenticación y autorización por roles con Spring Security 6 + BCrypt
 - Algoritmo de prevención de double-booking en capa de servicio con validación JPQL
