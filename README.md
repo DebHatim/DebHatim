@@ -15,7 +15,7 @@ Actualmente buscando mi primer empleo estable como desarrollador Java. **Disponi
 `JavaScript ES6+` `React` `Thymeleaf` `HTML5` `CSS3`
 
 **Persistencia** - 
-`MySQL` `PostgreSQL` `JPA/Hibernate` `Doctrine ORM`
+`MySQL` `PostgreSQL` `JPA/Hibernate`
 
 **Testing y calidad** - 
 `JUnit 5` `Mockito` `Clean Code` `SOLID` `Bean Validation`
