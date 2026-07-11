@@ -9,7 +9,7 @@ Actualmente buscando mi primer empleo estable como desarrollador Java. **Disponi
 ## 🛠️ Stack
 
 **Backend** - 
-`Java 21` `Spring Boot 3` `Spring Security` `JPA/Hibernate` `APIs REST` `PHP`
+`Java 21` `Spring Boot` `Spring Security` `JPA/Hibernate` `APIs REST` `PHP`
 
 **Frontend** - 
 `JavaScript ES6+` `React` `Thymeleaf` `HTML5` `CSS3`
@@ -39,7 +39,7 @@ Plataforma donde los usuarios configuran alertas personalizadas sobre productos 
 - Se levanta con un único comando: `docker compose up -d`
 
 ### 🏨 [Sistema de Gestión de Reservas Hoteleras](https://github.com/DebHatim/reservasSpringBoot)
-`Java 21` `Spring Boot 3` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
+`Java 21` `Spring Boot 4` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
 
 API REST y aplicación web backend para gestión integral de hoteles y reservas. Lo desarrollé de forma independiente tras completar el Curso de Especialización Java/JEE en Ipartek. Diseño, arquitectura e implementación de principio a fin.
 
