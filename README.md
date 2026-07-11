@@ -1,51 +1,52 @@
 # Hola, soy Hatim 👋
 
-Desarrollador backend especializado en Java y Spring Boot, con base sólida en desarrollo web full stack. Me gusta construir backends bien estructurados donde la arquitectura tiene sentido y el código se pueda mantener sin que sea un caos en seis meses. Aplico Clean Code y SOLID no porque los pida la oferta sino porque lo considero parte de hacer bien el trabajo.
+Desarrollador backend especializado en Java y Spring Boot, con base sólida en desarrollo web full stack. Me gusta construir backends bien estructurados donde la arquitectura tiene sentido y el código se pueda mantener sin que sea un caos en seis meses. Aplico Clean Code y SOLID no porque los pida la oferta, sino porque lo considero parte de hacer bien el trabajo.
 
-Actualmente buscando mi primer empleo estable como desarrollador Java mientras construyo nuevos proyectos para seguir creciendo.
+Actualmente buscando mi primer empleo estable como desarrollador Java. **Disponible para incorporación inmediata.**
 
 ---
 
 ## 🛠️ Stack
 
-**Backend**
-`Java 21` `Spring Boot 4` `Spring Security` `JPA/Hibernate` `APIs REST` `PHP`
+**Backend** - 
+`Java 21` `Spring Boot 3` `Spring Security` `JPA/Hibernate` `APIs REST` `PHP`
 
-**Frontend**
+**Frontend** - 
 `JavaScript ES6+` `React` `Thymeleaf` `HTML5` `CSS3`
 
-**Persistencia**
+**Persistencia** - 
 `MySQL` `PostgreSQL` `JPA/Hibernate` `Doctrine ORM`
 
-**Testing y calidad**
-`JUnit 5` `Clean Code` `SOLID` `Bean Validation`
+**Testing y calidad** - 
+`JUnit 5` `Mockito` `Clean Code` `SOLID` `Bean Validation`
 
-**Herramientas**
-`Docker` `Maven` `Git` `Lombok`
+**Herramientas** - 
+`Docker` `Maven` `Git` `Lombok` `Apache Kafka`
 
 ---
 
 ## 🚀 Proyectos
 
-### 🏨 [Sistema de Gestión de Reservas Hoteleras](https://github.com/DebHatim/reservasSpringBoot)
-`Java 21` `Spring Boot 4` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
+### 🔔 [Sistema de Alertas de Precios en Tiempo Real](https://github.com/DebHatim/alertas-tiempo-real)
+`Java 21` `Spring Boot 3` `Apache Kafka` `React` `WebSocket` `Spring Security` `JWT` `MySQL` `Docker`
 
-API REST y aplicación web backend para gestión integral de hoteles y reservas. Lo desarrollé de forma independiente después de completar el Curso de Especialización Java/JEE en Ipartek. Lo diseñé, lo arquitecté y lo llevé hasta el final yo solo.
+Plataforma donde los usuarios configuran alertas personalizadas sobre productos y reciben notificaciones en tiempo real cuando el precio baja de su objetivo. Arquitectura orientada a eventos con Kafka como núcleo del sistema.
+
+- Autenticación stateless con JWT y autorización a nivel de recurso (cada usuario solo accede a sus propias alertas y notificaciones)
+- Productor y consumidor Kafka desacoplados para procesamiento de eventos de precio
+- Notificaciones en tiempo real al frontend mediante WebSocket (STOMP)
+- Tests unitarios con JUnit 5 + Mockito sobre la lógica de negocio y el consumidor Kafka
+- Se levanta con un único comando: `docker compose up -d`
+
+### 🏨 [Sistema de Gestión de Reservas Hoteleras](https://github.com/DebHatim/reservasSpringBoot)
+`Java 21` `Spring Boot 3` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
+
+API REST y aplicación web backend para gestión integral de hoteles y reservas. Lo desarrollé de forma independiente tras completar el Curso de Especialización Java/JEE en Ipartek. Diseño, arquitectura e implementación de principio a fin.
 
 - Autenticación y autorización por roles con Spring Security 6 + BCrypt
-- Algoritmo de prevención de double-booking en capa de servicio con validación JPQL
+- Algoritmo de prevención de double-booking en la capa de servicio con validación JPQL
 - Panel de administración con CRUD completo de hoteles y usuarios
 - Vistas dinámicas con Thymeleaf y API REST con Spring Data REST
-
-### 🔔 [Sistema de Alertas en Tiempo Real *(en desarrollo activo)*](https://github.com/DebHatim/alertas-tiempo-real)
-`Java 21` `Spring Boot` `Apache Kafka` `React` `WebSocket` `MySQL` `Docker`
-
-Plataforma donde los usuarios configuran alertas personalizadas y reciben notificaciones en tiempo real cuando se disparan. Arquitectura orientada a eventos con Kafka como núcleo del sistema.
-
-- Productor y consumidor Kafka desacoplados para procesamiento de eventos
-- Notificaciones en tiempo real al frontend mediante WebSocket
-- Dashboard React con gestión de alertas por usuario
-- Desplegado con Docker Compose
 
 ---
 
