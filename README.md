@@ -9,7 +9,7 @@ Actualmente buscando mi primer empleo estable como desarrollador Java. **Disponi
 ## 🛠️ Stack
 
 **Backend** - 
-`Java 21` `Spring Boot` `Apache Kafka` `Spring Security` `JPA/Hibernate` `APIs REST` `PHP`
+`Java 21` `Spring Boot` `Apache Kafka` `Spring Security` `APIs REST` `PHP`
 
 **Frontend** - 
 `JavaScript ES6+` `React` `Thymeleaf` `HTML5` `CSS3`
