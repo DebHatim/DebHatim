@@ -55,6 +55,13 @@ REST API and backend web application for full hotel and reservation management. 
 
 ---
 
+## ⚡ Fun Facts
+
+- 🎵 My coding sessions are heavily powered by **R&B music**. I truly believe clean code and musical harmony have a lot in common, if something doesn't sound right, it's time to refactor!
+- 🐛 I suffer from "stubborn bug syndrome": if a technical problem beats me during the day, my brain will likely solve it while I'm having dinner or trying to sleep.
+
+---
+
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hatimdebboun-blue?logo=linkedin)](https://linkedin.com/in/hatimdebboun)
@@ -111,6 +118,13 @@ API REST y aplicación web backend para gestión integral de hoteles y reservas.
 - Algoritmo de prevención de double-booking en la capa de servicio con validación JPQL
 - Panel de administración con CRUD completo de hoteles y usuarios
 - Vistas dinámicas con Thymeleaf y API REST con Spring Data REST
+
+---
+
+## ⚡ Datos curiosos
+
+- 🎵 Mis sesiones de código funcionan a ritmo de **música R&B**. Creo firmemente que el código limpio y la armonía musical tienen mucho en común: si algo no suena del todo bien, ¡toca refactorizar!
+- 🐛 Sufro del "síndrome del bug persistente": si un problema técnico se me resiste durante el día, mi cerebro probablemente lo acabará resolviendo mientras ceno o intento dormir.
 
 ---
 
