@@ -44,7 +44,7 @@ A platform where users set custom alerts on products and get real-time notificat
 - Spins up with a single command: `docker compose up -d`
 
 ### 🏨 [Hotel Reservation Management System](https://github.com/DebHatim/reservasSpringBoot)
-`Java 21` `Spring Boot 3` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
+`Java 21` `Spring Boot 4` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
 
 REST API and backend web application for full hotel and reservation management. Built independently after completing the Java/JEE Specialization Course at Ipartek. Design, architecture, and implementation from scratch.
 
@@ -110,7 +110,7 @@ Plataforma donde los usuarios configuran alertas personalizadas sobre productos 
 - Se levanta con un único comando: `docker compose up -d`
 
 ### 🏨 [Sistema de Gestión de Reservas Hoteleras](https://github.com/DebHatim/reservasSpringBoot)
-`Java 21` `Spring Boot 3` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
+`Java 21` `Spring Boot 4` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf`
 
 API REST y aplicación web backend para gestión integral de hoteles y reservas. Lo desarrollé de forma independiente tras completar el Curso de Especialización Java/JEE en Ipartek. Diseño, arquitectura e implementación de principio a fin.
 
