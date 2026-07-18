@@ -64,6 +64,7 @@ REST API and backend web application for full hotel and reservation management. 
 
 ## 📫 Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-hatimdebboun.dev-emerald)](https://hatimdebboun.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hatimdebboun-blue?logo=linkedin)](https://linkedin.com/in/hatimdebboun)
 [![Email](https://img.shields.io/badge/Email-thos.debboun.hatim@gmail.com-red?logo=gmail)](mailto:thos.debboun.hatim@gmail.com)
 
@@ -130,8 +131,8 @@ API REST y aplicación web backend para gestión integral de hoteles y reservas.
 
 ### 📫 Contacto
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-hatimdebboun.dev-emerald)](https://hatimdebboun.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hatimdebboun-blue?logo=linkedin)](https://linkedin.com/in/hatimdebboun)
 [![Email](https://img.shields.io/badge/Email-thos.debboun.hatim@gmail.com-red?logo=gmail)](mailto:thos.debboun.hatim@gmail.com)
-
 
 </details>
