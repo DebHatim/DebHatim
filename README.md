@@ -16,7 +16,7 @@ Currently looking for my first stable position as a Java developer. **Available 
 `Java 21` `Spring Boot` `Apache Kafka` `Spring Security` `REST APIs` `PHP`
 
 **Frontend** -
-`JavaScript ES6+` `React` `Thymeleaf` `HTML5` `CSS3`
+`JavaScript ES6+` `React` `Bootstrap` `Thymeleaf` `HTML5` `CSS3`
 
 **Persistence** -
 `MySQL` `PostgreSQL` `JPA/Hibernate`
@@ -86,7 +86,7 @@ Actualmente buscando mi primer empleo estable como desarrollador Java. **Disponi
 
 **Backend** - `Java 21` `Spring Boot` `Apache Kafka` `Spring Security` `APIs REST` `PHP`
 
-**Frontend** - `JavaScript ES6+` `React` `Thymeleaf` `HTML5` `CSS3`
+**Frontend** - `JavaScript ES6+` `React` `Bootstrap` `Thymeleaf` `HTML5` `CSS3`
 
 **Persistencia** - `MySQL` `PostgreSQL` `JPA/Hibernate`
 
