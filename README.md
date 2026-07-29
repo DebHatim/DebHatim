@@ -50,8 +50,9 @@ REST API and backend web application for full hotel and reservation management, 
 
 ## ⚡ Fun Facts
 
-- 🎵 My coding sessions have the feel of **R&B** music. I believe software and music have a lot in common: if one piece is out of place in the architecture, you have to fine-tune it until the whole system sounds perfect.
-- 🐛 I suffer from "stubborn bug syndrome": if a technical problem beats me during the day, my brain will likely solve it while I'm having dinner or trying to sleep.
+🎵 My coding sessions have the feel of **R&B** music. I believe software and music have a lot in common: if one piece is out of place in the architecture, you have to fine-tune it until the whole system sounds perfect.
+
+🐛 I suffer from "stubborn bug syndrome": if a technical problem beats me during the day, my brain will likely solve it while I'm having dinner or trying to sleep.
 
 ---
 
@@ -113,10 +114,11 @@ API REST y aplicación web de backend para la gestión integral de hoteles y res
 
 ---
 
-## ⚡ Datos curiosos
+## ⚡ En lo personal
 
-- 🎵 Mis sesiones de código suenan a ritmo de **música R&B**. Creo que el software y la música tienen mucho en común: si una pieza desentona en la arquitectura, toca afinarla hasta que todo el sistema suene perfecto.
-- 🐛 Sufro del "síndrome del bug persistente": si un problema técnico se me resiste durante el día, mi cerebro probablemente lo acabará resolviendo mientras ceno o intento dormir.
+🎵 Mis sesiones de código suenan a ritmo de **música R&B**. Creo que el software y la música tienen mucho en común: si una pieza desentona en la arquitectura, toca afinarla hasta que todo el sistema suene perfecto.
+
+🐛 Sufro del "síndrome del bug persistente": si un problema técnico se me resiste durante el día, mi cerebro probablemente lo acabará resolviendo mientras ceno o intento dormir.
 
 ---
 
