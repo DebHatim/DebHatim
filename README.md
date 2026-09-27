@@ -26,6 +26,16 @@ Currently looking for my first stable position as a Java developer. **Available 
 
 ## 🚀 Projects
 
+### 📦 [Real-Time Order & Inventory System - Microservices](https://github.com/DebHatim/pedidos-microservicios)
+`Java 21` `Spring Boot 4.1` `Spring Cloud Gateway` `Apache Kafka` `Resilience4j` `Redis` `Prometheus` `Grafana` `Jaeger` `Docker` `React`
+
+E-commerce platform built on 4 independent microservices (gateway, orders, inventory, notifications) communicating asynchronously via Kafka, with full resilience and observability.
+
+- Event-driven architecture with a database per service and eventual consistency via Kafka (KRaft)
+- Centralized gateway with rate limiting (Redis), retries and per-service circuit breaker with fallback controllers
+- Full observability of the distributed system: metrics (Prometheus/Grafana) and distributed tracing (OpenTelemetry/Jaeger)
+- Integration tests with Testcontainers (real MySQL + Kafka) verifying the full end-to-end flow
+
 ### 🔔 [Real-Time Price Alerts System](https://github.com/DebHatim/alertas-tiempo-real)
 `Java 21` `Spring Boot 3.5` `Apache Kafka` `React` `WebSocket` `Spring Security` `JWT` `MySQL` `Docker`
 
@@ -91,6 +101,16 @@ Actualmente buscando mi primer empleo estable como desarrollador Java. **Disponi
 ---
 
 ## 🚀 Proyectos
+
+### 📦 [Sistema de Pedidos e Inventario - Microservicios](https://github.com/DebHatim/pedidos-microservicios)
+`Java 21` `Spring Boot 4.1` `Spring Cloud Gateway` `Apache Kafka` `Resilience4j` `Redis` `Prometheus` `Grafana` `Jaeger` `Docker` `React`
+
+Plataforma de e-commerce basada en 4 microservicios independientes (gateway, pedidos, inventario, notificaciones) comunicados de forma asíncrona vía Kafka, con resiliencia y observabilidad completas.
+
+- Arquitectura orientada a eventos con base de datos propia por servicio y consistencia eventual vía Kafka (KRaft)
+- Gateway centralizado con rate limiting (Redis), reintentos y circuit breaker por servicio, con fallback controllers
+- Observabilidad completa del sistema distribuido: métricas (Prometheus/Grafana) y tracing distribuido (OpenTelemetry/Jaeger)
+- Tests de integración con Testcontainers (MySQL + Kafka reales) verificando el flujo completo extremo a extremo
 
 ### 🔔 [Sistema de Alertas de Precios en Tiempo Real](https://github.com/DebHatim/alertas-tiempo-real)
 `Java 21` `Spring Boot 3.5` `Apache Kafka` `React` `WebSocket` `Spring Security` `JWT` `MySQL` `Docker`
