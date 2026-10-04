@@ -12,15 +12,17 @@ Currently looking for my first stable position as a Java developer. **Available 
 
 ## 🛠️ Stack
 
-**Backend** - `Java 21` `Spring Boot` `REST APIs` `Apache Kafka` `Spring Security` `WebSocket/STOMP` `PHP`
+**Backend** - `Java 21` `Spring Boot` `REST APIs` `Apache Kafka` `Spring Cloud Gateway` `Resilience4j` `Spring Security` `WebSocket/STOMP` `PHP`
 
 **Frontend** - `JavaScript ES6+` `React` `Bootstrap` `Thymeleaf` `HTML5` `CSS3`
 
-**Persistence** - `JPA/Hibernate` `MySQL` `PostgreSQL`
+**Persistence** - `JPA/Hibernate` `MySQL` `PostgreSQL` `Redis`
 
-**Testing & Quality** - `JUnit 5` `Mockito` `Clean Code` `SOLID` `Bean Validation`
+**Testing & Quality** - `JUnit 5` `Mockito` `Testcontainers` `Clean Code` `SOLID` `Bean Validation`
 
-**DevOps** - `Docker` `Github Actions` `Git` `Maven` `Nginx`
+**Observability** - `Prometheus` `Grafana` `Jaeger` `OpenTelemetry` `Spring Boot Actuator`
+
+**DevOps** - `Docker` `Docker Compose` `GitHub Actions` `Git` `Maven` `Nginx`
 
 ---
 
@@ -88,15 +90,17 @@ Actualmente buscando mi primer empleo estable como desarrollador Java. **Disponi
 
 ## 🛠️ Stack
 
-**Backend** - `Java 21` `Spring Boot` `REST APIs` `Apache Kafka` `Spring Security` `WebSocket/STOMP` `PHP`
+**Backend** - `Java 21` `Spring Boot` `APIs REST` `Apache Kafka` `Spring Cloud Gateway` `Resilience4j` `Spring Security` `WebSocket/STOMP` `PHP`
 
 **Frontend** - `JavaScript ES6+` `React` `Bootstrap` `Thymeleaf` `HTML5` `CSS3`
 
-**Persistencia** - `JPA/Hibernate` `MySQL` `PostgreSQL`
+**Persistencia** - `JPA/Hibernate` `MySQL` `PostgreSQL` `Redis`
 
-**Testing y calidad** - `JUnit 5` `Mockito` `Clean Code` `SOLID` `Bean Validation`
+**Testing y calidad** - `JUnit 5` `Mockito` `Testcontainers` `Clean Code` `SOLID` `Bean Validation`
 
-**Herramientas** - `Docker` `Github Actions` `Git` `Maven` `Nginx`
+**Observabilidad** - `Prometheus` `Grafana` `Jaeger` `OpenTelemetry` `Spring Boot Actuator`
+
+**Herramientas** - `Docker` `Docker Compose` `GitHub Actions` `Git` `Maven` `Nginx`
 
 ---
 
