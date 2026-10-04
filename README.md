@@ -26,7 +26,7 @@ Currently looking for my first stable position as a Java developer. **Available 
 
 ## 🚀 Projects
 
-### 📦 [Real-Time Order & Inventory System - Microservices](https://github.com/DebHatim/pedidos-microservicios)
+### 📦 [Order & Inventory System - Microservices](https://github.com/DebHatim/pedidos-microservicios)
 `Java 21` `Spring Boot 4.1` `Spring Cloud Gateway` `Apache Kafka` `Resilience4j` `Redis` `Prometheus` `Grafana` `Jaeger` `Docker` `React`
 
 E-commerce platform built on 4 independent microservices (gateway, orders, inventory, notifications) communicating asynchronously via Kafka, with full resilience and observability.
